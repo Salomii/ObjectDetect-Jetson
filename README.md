@@ -44,9 +44,7 @@
 
 
 ## Live Detection on Jetson Nano Developer Kit
-
-
-
+https://user-images.githubusercontent.com/114555544/198884893-3c405a43-7735-4cf4-b90a-e88090c2c6ba.mp4
 
 
 
